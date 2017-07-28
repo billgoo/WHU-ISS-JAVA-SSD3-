@@ -1,0 +1,56 @@
+---------------------------------------------------------------------------
+Bug #1
+
+Description of the bug:
+
+
+Lines of source code that contain the bug:
+
+
+
+Lines of the fixed code:
+
+
+---------------------------------------------------------------------------
+Bug #2
+
+Description of the bug:
+
+
+Lines of source code that contain the bug:
+
+
+
+Lines of the fixed code:
+
+
+
+---------------------------------------------------------------------------
+Bug #3
+
+Description of the bug:
+
+
+Lines of source code that contain the bug:
+
+
+
+Lines of the fixed code:
+
+
+
+---------------------------------------------------------------------------
+Bug #4
+
+Description of the bug:
+
+
+Lines of source code that contain the bug:
+
+
+
+Lines of the fixed code:
+
+
+
+---------------------------------------------------------------------------
